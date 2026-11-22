@@ -1,0 +1,232 @@
+{
+  "backend": "pinecone",
+  "namespace": "papers-f8d72ba08eec279b",
+  "cases": {
+    "unfiltered": {
+      "query": "teaching machines to recognize objects in pictures",
+      "eligible": 10000,
+      "matches": [
+        {
+          "id": "0704.1696",
+          "title": "Theoretical Aspects of the SOM Algorithm",
+          "year": 2007,
+          "category": "math.ST",
+          "abstract_excerpt": "The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h",
+          "score": 0.883596659
+        },
+        {
+          "id": "0704.3351",
+          "title": "Symbolic sensors : one solution to the numerical-symbolic interface",
+          "year": 2007,
+          "category": "physics.ins-det",
+          "abstract_excerpt": "This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr",
+          "score": 0.882834315
+        },
+        {
+          "id": "0705.2318",
+          "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+          "score": 0.878031731
+        },
+        {
+          "id": "0704.1409",
+          "title": "Preconditioned Temporal Difference Learning",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+          "score": 0.876893282
+        },
+        {
+          "id": "0705.3402",
+          "title": "A ferrofluid based neural network: design of an analogue associative memory",
+          "year": 2007,
+          "category": "cond-mat.dis-nn",
+          "abstract_excerpt": "We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of ",
+          "score": 0.876596451
+        }
+      ]
+    },
+    "cs.LG in 2022–2026": {
+      "query": "reinforcement learning",
+      "eligible": 0,
+      "matches": []
+    },
+    "before 2015": {
+      "query": "reinforcement learning",
+      "eligible": 10000,
+      "matches": [
+        {
+          "id": "0706.0280",
+          "title": "Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa",
+          "year": 2007,
+          "category": "cs.MA",
+          "abstract_excerpt": "Game theory has many limitations implicit in its application. By utilizing multiagent modeling, it is possible to solve a number of problems that are unsolvable using traditional g",
+          "score": 0.929680824
+        },
+        {
+          "id": "0704.1409",
+          "title": "Preconditioned Temporal Difference Learning",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+          "score": 0.910425425
+        },
+        {
+          "id": "0705.0693",
+          "title": "Learning to Bluff",
+          "year": 2007,
+          "category": "cs.AI",
+          "abstract_excerpt": "The act of bluffing confounds game designers to this day. The very nature of bluffing is even open for debate, adding further complication to the process of creating intelligent vi",
+          "score": 0.907638192
+        },
+        {
+          "id": "0704.3780",
+          "title": "Stochastic Optimization Algorithms",
+          "year": 2007,
+          "category": "cs.NE",
+          "abstract_excerpt": "When looking for a solution, deterministic methods have the enormous advantage that they do find global optima. Unfortunately, they are very CPU-intensive, and are useless on untra",
+          "score": 0.903163493
+        },
+        {
+          "id": "0704.1120",
+          "title": "\"Illusion of control\" in Minority and Parrondo Games",
+          "year": 2007,
+          "category": "physics.soc-ph",
+          "abstract_excerpt": "Human beings like to believe they are in control of their destiny. This ubiquitous trait seems to increase motivation and persistence, and is probably evolutionarily adaptive. But ",
+          "score": 0.899917781
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "cosine": [
+      {
+        "id": "0704.1696",
+        "title": "Theoretical Aspects of the SOM Algorithm",
+        "year": 2007,
+        "category": "math.ST",
+        "abstract_excerpt": "The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h",
+        "score": 0.8835139719961367
+      },
+      {
+        "id": "0704.3351",
+        "title": "Symbolic sensors : one solution to the numerical-symbolic interface",
+        "year": 2007,
+        "category": "physics.ins-det",
+        "abstract_excerpt": "This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr",
+        "score": 0.8828346764107087
+      },
+      {
+        "id": "0705.2318",
+        "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+        "score": 0.8780510488836111
+      },
+      {
+        "id": "0705.3402",
+        "title": "A ferrofluid based neural network: design of an analogue associative memory",
+        "year": 2007,
+        "category": "cond-mat.dis-nn",
+        "abstract_excerpt": "We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of ",
+        "score": 0.877529701633654
+      },
+      {
+        "id": "0704.1409",
+        "title": "Preconditioned Temporal Difference Learning",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+        "score": 0.8768949280254238
+      }
+    ],
+    "dot": [
+      {
+        "id": "0704.1696",
+        "title": "Theoretical Aspects of the SOM Algorithm",
+        "year": 2007,
+        "category": "math.ST",
+        "abstract_excerpt": "The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h",
+        "score": 0.8835139985730984
+      },
+      {
+        "id": "0704.3351",
+        "title": "Symbolic sensors : one solution to the numerical-symbolic interface",
+        "year": 2007,
+        "category": "physics.ins-det",
+        "abstract_excerpt": "This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr",
+        "score": 0.8828346890444699
+      },
+      {
+        "id": "0705.2318",
+        "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+        "score": 0.8780510804793187
+      },
+      {
+        "id": "0705.3402",
+        "title": "A ferrofluid based neural network: design of an analogue associative memory",
+        "year": 2007,
+        "category": "cond-mat.dis-nn",
+        "abstract_excerpt": "We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of ",
+        "score": 0.877529758627222
+      },
+      {
+        "id": "0704.1409",
+        "title": "Preconditioned Temporal Difference Learning",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+        "score": 0.8768949293130684
+      }
+    ],
+    "l2": [
+      {
+        "id": "0704.1696",
+        "title": "Theoretical Aspects of the SOM Algorithm",
+        "year": 2007,
+        "category": "math.ST",
+        "abstract_excerpt": "The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h",
+        "score": 0.48267179637488206
+      },
+      {
+        "id": "0704.3351",
+        "title": "Symbolic sensors : one solution to the numerical-symbolic interface",
+        "year": 2007,
+        "category": "physics.ins-det",
+        "abstract_excerpt": "This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr",
+        "score": 0.48407711217528204
+      },
+      {
+        "id": "0705.2318",
+        "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+        "score": 0.493860214037515
+      },
+      {
+        "id": "0705.3402",
+        "title": "A ferrofluid based neural network: design of an analogue associative memory",
+        "year": 2007,
+        "category": "cond-mat.dis-nn",
+        "abstract_excerpt": "We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of ",
+        "score": 0.49491475290299886
+      },
+      {
+        "id": "0704.1409",
+        "title": "Preconditioned Temporal Difference Learning",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+        "score": 0.49619567139455284
+      }
+    ]
+  },
+  "same_order": true
+}

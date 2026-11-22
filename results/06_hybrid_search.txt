@@ -1,0 +1,109 @@
+Режим: pinecone; статей: 10000; до 50 кандидатів від кожного методу; RRF k=60.
+
+Запит: BERT fine-tuning
+  BM25:
+    1. A New Measure of Fine Tuning | arXiv:0705.2241 | hep-ph | 19.121397
+    2. The NMSSM Solution to the Fine-Tuning Problem, Precision Electroweak Constraints and the Largest LEP Higgs Event Excess | arXiv:0705.4387 | hep-ph | 17.539321
+    3. Fine-Tuning in Brane-antibrane Inflation | arXiv:0705.2982 | hep-th | 16.680932
+    4. Natural SUSY Dark Matter: A Window on the GUT Scale | arXiv:0706.0031 | hep-ph | 13.557480
+    5. Conformal dynamics in gauge theories via non-perturbative renormalization group | arXiv:0704.3659 | hep-ph | 12.411234
+  Векторний cosine:
+    1. Misere quotients for impartial games: Supplementary material | arXiv:0705.2404 | math.CO | 0.927330
+    2. A New Measure of Fine Tuning | arXiv:0705.2241 | hep-ph | 0.922608
+    3. Learning to Bluff | arXiv:0705.0693 | cs.AI | 0.921008
+    4. "Illusion of control" in Minority and Parrondo Games | arXiv:0704.1120 | physics.soc-ph | 0.920501
+    5. Extracting falsifiable predictions from sloppy models | arXiv:0704.3049 | q-bio.QM | 0.918397
+  Гібридний RRF (k=60):
+    1. A New Measure of Fine Tuning | arXiv:0705.2241 | hep-ph | 0.032522
+    2. The NMSSM Solution to the Fine-Tuning Problem, Precision Electroweak Constraints and the Largest LEP Higgs Event Excess | arXiv:0705.4387 | hep-ph | 0.028787
+    3. Natural SUSY Dark Matter: A Window on the GUT Scale | arXiv:0706.0031 | hep-ph | 0.024971
+    4. Natural Priors, CMSSM Fits and LHC Weather Forecasts | arXiv:0705.0487 | hep-ph | 0.024394
+    5. Misere quotients for impartial games: Supplementary material | arXiv:0705.2404 | math.CO | 0.016393
+  Порівняння RRF (k=1):
+    1. A New Measure of Fine Tuning | arXiv:0705.2241 | hep-ph | 0.833333
+    2. Misere quotients for impartial games: Supplementary material | arXiv:0705.2404 | math.CO | 0.500000
+    3. The NMSSM Solution to the Fine-Tuning Problem, Precision Electroweak Constraints and the Largest LEP Higgs Event Excess | arXiv:0705.4387 | hep-ph | 0.383333
+    4. Learning to Bluff | arXiv:0705.0693 | cs.AI | 0.250000
+    5. Fine-Tuning in Brane-antibrane Inflation | arXiv:0705.2982 | hep-th | 0.250000
+  Лише у гібридному top-5: 0705.0487.
+
+Запит: Yann LeCun convolutional networks
+  BM25:
+    1. On Punctured Pragmatic Space-Time Codes in Block Fading Channel | arXiv:0704.0282 | cs.IT | 13.357396
+    2. Trellis-Coded Quantization Based on Maximum-Hamming-Distance Binary Codes | arXiv:0704.1411 | cs.IT | 13.254090
+    3. Response of degree-correlated scale-free networks to stimuli | arXiv:0704.1849 | cond-mat.dis-nn | 8.038183
+    4. Optimization in Gradient Networks | arXiv:0704.1144 | cond-mat.stat-mech | 7.990037
+    5. Simulation of Robustness against Lesions of Cortical Networks | arXiv:0704.0392 | q-bio.NC | 7.782313
+  Векторний cosine:
+    1. A few brief comments on the results of manuscript arXiv:math/0405153v3 | arXiv:0705.3171 | math.DS | 0.915850
+    2. Multi-Dimensional Recurrent Neural Networks | arXiv:0705.2011 | cs.AI | 0.910589
+    3. Withrawn paper | arXiv:0705.2301 | gr-qc | 0.902155
+    4. Reply to Comment by J.A.Garcia, arXiv:0705.0143 (to appear in PRD) | arXiv:0705.0586 | hep-th | 0.897823
+    5. Exploiting Heavy Tails in Training Times of Multilayer Perceptrons: A Case Study with the UCI Thyroid Disease Database | arXiv:0704.2725 | cs.NE | 0.895662
+  Гібридний RRF (k=60):
+    1. Optimization in Gradient Networks | arXiv:0704.1144 | cond-mat.stat-mech | 0.027119
+    2. Simulation of Robustness against Lesions of Cortical Networks | arXiv:0704.0392 | q-bio.NC | 0.026254
+    3. Transient dynamics for sequence processing neural networks: effect of degree distributions | arXiv:0705.3679 | cond-mat.dis-nn | 0.025206
+    4. A balanced memory network | arXiv:0704.3005 | q-bio.NC | 0.021062
+    5. Transient Dynamics of Sparsely Connected Hopfield Neural Networks with Arbitrary Degree Distributions | arXiv:0704.1007 | cond-mat.dis-nn | 0.018434
+  Порівняння RRF (k=1):
+    1. On Punctured Pragmatic Space-Time Codes in Block Fading Channel | arXiv:0704.0282 | cs.IT | 0.500000
+    2. A few brief comments on the results of manuscript arXiv:math/0405153v3 | arXiv:0705.3171 | math.DS | 0.500000
+    3. Trellis-Coded Quantization Based on Maximum-Hamming-Distance Binary Codes | arXiv:0704.1411 | cs.IT | 0.333333
+    4. Multi-Dimensional Recurrent Neural Networks | arXiv:0705.2011 | cs.AI | 0.333333
+    5. Response of degree-correlated scale-free networks to stimuli | arXiv:0704.1849 | cond-mat.dis-nn | 0.250000
+  Лише у гібридному top-5: 0705.3679, 0704.3005, 0704.1007.
+
+Запит: making computers understand human emotions from text
+  BM25:
+    1. On the Development of Text Input Method - Lessons Learned | arXiv:0704.3665 | cs.CL | 21.512114
+    2. Towards Understanding the Origin of Genetic Languages | arXiv:0705.3895 | q-bio.GN | 16.970351
+    3. An Automated Evaluation Metric for Chinese Text Entry | arXiv:0704.3662 | cs.HC | 16.929761
+    4. Detecting anchoring in financial markets | arXiv:0705.3319 | q-fin.TR | 12.305236
+    5. Philosophy and Relativity | arXiv:0705.4441 | physics.hist-ph | 12.012577
+  Векторний cosine:
+    1. On the Development of Text Input Method - Lessons Learned | arXiv:0704.3665 | cs.CL | 0.878673
+    2. Narratives within immersive technologies | arXiv:0704.2542 | cs.HC | 0.874275
+    3. Opinion Dynamics and Sociophysics | arXiv:0705.0891 | physics.soc-ph | 0.870250
+    4. Are We Typical? | arXiv:0704.2630 | hep-th | 0.864418
+    5. Redesigning Computer-based Learning Environments: Evaluation as Communication | arXiv:0706.1127 | cs.CY | 0.862778
+  Гібридний RRF (k=60):
+    1. On the Development of Text Input Method - Lessons Learned | arXiv:0704.3665 | cs.CL | 0.032787
+    2. Using Image Attributes for Human Identification Protocols | arXiv:0704.2295 | cs.CR | 0.029418
+    3. Towards Understanding the Origin of Genetic Languages | arXiv:0705.3895 | q-bio.GN | 0.026438
+    4. Information diffusion epidemics in social networks | arXiv:0706.0641 | physics.soc-ph | 0.025125
+    5. Motivation, Design, and Ubiquity: A Discussion of Research Ethics and Computer Science | arXiv:0706.0484 | cs.GL | 0.023537
+  Порівняння RRF (k=1):
+    1. On the Development of Text Input Method - Lessons Learned | arXiv:0704.3665 | cs.CL | 1.000000
+    2. Towards Understanding the Origin of Genetic Languages | arXiv:0705.3895 | q-bio.GN | 0.359649
+    3. Narratives within immersive technologies | arXiv:0704.2542 | cs.HC | 0.333333
+    4. An Automated Evaluation Metric for Chinese Text Entry | arXiv:0704.3662 | cs.HC | 0.250000
+    5. Opinion Dynamics and Sociophysics | arXiv:0705.0891 | physics.soc-ph | 0.250000
+  Лише у гібридному top-5: 0704.2295, 0706.0641, 0706.0484.
+
+Запит: prompt diphoton production at Tevatron
+  BM25:
+    1. Calculation of prompt diphoton production cross sections at Tevatron and LHC energies | arXiv:0704.0001 | hep-ph | 31.306178
+    2. Exclusive e+e-, Di-photon and Di-jet Production at the Tevatron | arXiv:0705.3804 | hep-ex | 17.461231
+    3. Electroweak measurements at the Tevatron | arXiv:0706.0851 | hep-ex | 16.914481
+    4. Top Pair Production cross-section at the Tevatron | arXiv:0706.0701 | hep-ex | 16.557020
+    5. Soft-collinear effects in prompt photon production | arXiv:0704.3180 | hep-ph | 16.511850
+  Векторний cosine:
+    1. Calculation of prompt diphoton production cross sections at Tevatron and LHC energies | arXiv:0704.0001 | hep-ph | 0.928905
+    2. Search for Supersymmetry at the Tevatron | arXiv:0705.2896 | hep-ex | 0.918114
+    3. Study of Direct Photon plus Jet production in CMS Experiment at \sqrt{s}=14 TeV | arXiv:0705.2740 | hep-ex | 0.910370
+    4. Searches for New Phenomena with Lepton Final States at the Tevatron | arXiv:0705.4679 | hep-ex | 0.905421
+    5. Enhancement of prompt photons in ultrarelativistic proton-proton collisions from nonlinear gluon evolution at small-$x$ | arXiv:0705.0036 | hep-ph | 0.904674
+  Гібридний RRF (k=60):
+    1. Calculation of prompt diphoton production cross sections at Tevatron and LHC energies | arXiv:0704.0001 | hep-ph | 0.032787
+    2. Soft-collinear effects in prompt photon production | arXiv:0704.3180 | hep-ph | 0.030536
+    3. Enhancement of prompt photons in ultrarelativistic proton-proton collisions from nonlinear gluon evolution at small-$x$ | arXiv:0705.0036 | hep-ph | 0.030090
+    4. Exclusive e+e-, Di-photon and Di-jet Production at the Tevatron | arXiv:0705.3804 | hep-ex | 0.029828
+    5. Search for Excited Quarks in $q\bar{q} \to \gamma\gamma$ at the LHC | arXiv:0705.3472 | hep-ph | 0.028595
+  Порівняння RRF (k=1):
+    1. Calculation of prompt diphoton production cross sections at Tevatron and LHC energies | arXiv:0704.0001 | hep-ph | 1.000000
+    2. Exclusive e+e-, Di-photon and Di-jet Production at the Tevatron | arXiv:0705.3804 | hep-ex | 0.404762
+    3. Search for Supersymmetry at the Tevatron | arXiv:0705.2896 | hep-ex | 0.362745
+    4. Soft-collinear effects in prompt photon production | arXiv:0704.3180 | hep-ph | 0.309524
+    5. Enhancement of prompt photons in ultrarelativistic proton-proton collisions from nonlinear gluon evolution at small-$x$ | arXiv:0705.0036 | hep-ph | 0.277778
+  Лише у гібридному top-5: 0705.3472.

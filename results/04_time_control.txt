@@ -1,0 +1,74 @@
+Backend: pinecone. Namespace: papers-ba554725d9ed4346. Corpus: 50.
+
+unfiltered | teaching machines to recognize objects in pictures | eligible: 50
+1. 0.877201 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+2. 0.876385 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+3. 0.867701 | 2512.24063 | 2025 cs.LG | How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns
+   Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin
+4. 0.863245 | 2512.24940 | 2025 cs.AI | Iterative Deployment Improves Planning Skills in LLMs
+   We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change
+5. 0.857522 | 2512.25063 | 2025 cs.LG | Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity
+   Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu
+
+cs.LG in 2022–2026 | reinforcement learning | eligible: 16
+1. 0.929496 | 2512.23870 | 2025 cs.LG | Max-Entropy Reinforcement Learning with Flow Matching and A Case Study on LQR
+   Soft actor-critic (SAC) is a popular algorithm for max-entropy reinforcement learning. In practice, the energy-based policies in SAC are often approximated using simple policy clas
+2. 0.926041 | 2512.24445 | 2025 cs.LG | Adaptive Learning Guided by Bias-Noise-Alignment Diagnostics
+   Learning systems deployed in nonstationary and safety-critical environments often suffer from instability, slow convergence, or brittle adaptation when learning dynamics evolve ove
+3. 0.923127 | 2601.00898 | 2025 cs.LG | Dichotomous Diffusion Policy Optimization
+   Diffusion-based policies have gained growing popularity in solving a wide range of decision-making tasks due to their superior expressiveness and controllable generation during inf
+4. 0.918967 | 2512.24955 | 2025 cs.LG | MSACL: Multi-Step Actor-Critic Learning with Lyapunov Certificates for Exponentially Stabilizing Control
+   For stabilizing control tasks, model-free reinforcement learning (RL) approaches face numerous challenges, particularly regarding the issues of effectiveness and efficiency in comp
+5. 0.917758 | 2601.00868 | 2025 cs.LG | SmartFlow Reinforcement Learning and Agentic AI for Bike-Sharing Optimisation
+   SmartFlow is a multi-layered framework that integrates Reinforcement Learning and Agentic AI to address the dynamic rebalancing problem in urban bike-sharing services. Its architec
+
+before 2015 | reinforcement learning | eligible: 25
+1. 0.910448 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+2. 0.898391 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+3. 0.888184 | 0704.1274 | 2007 cs.LG | Parametric Learning and Monte Carlo Optimization
+   This paper uncovers and explores the close relationship between Monte Carlo Optimization of a parametrized integral (MCO), Parametric machine-Learning (PL), and `blackbox' or `orac
+4. 0.882665 | 0704.1020 | 2007 cs.LG | The on-line shortest path problem under partial monitoring
+   The on-line shortest path problem is considered under various models of partial monitoring. Given a weighted directed acyclic graph whose edge weights can change in an arbitrary (a
+5. 0.873659 | 0704.1028 | 2007 cs.LG | A neural network approach to ordinal regression
+   Ordinal regression is an important type of learning, which has properties of both classification and regression. Here we describe a simple and effective approach to adapt a traditi
+
+Exact local cosine | teaching machines to recognize objects in pictures
+1. 0.878051 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+2. 0.876895 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+3. 0.868515 | 2512.24063 | 2025 cs.LG | How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns
+   Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin
+4. 0.864241 | 2512.24940 | 2025 cs.AI | Iterative Deployment Improves Planning Skills in LLMs
+   We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change
+5. 0.858365 | 2512.25063 | 2025 cs.LG | Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity
+   Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu
+
+Exact local dot | teaching machines to recognize objects in pictures
+1. 0.878051 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+2. 0.876895 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+3. 0.868515 | 2512.24063 | 2025 cs.LG | How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns
+   Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin
+4. 0.864240 | 2512.24940 | 2025 cs.AI | Iterative Deployment Improves Planning Skills in LLMs
+   We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change
+5. 0.858364 | 2512.25063 | 2025 cs.LG | Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity
+   Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu
+
+Exact local l2 | teaching machines to recognize objects in pictures
+1. 0.493860 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+2. 0.496196 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+3. 0.512806 | 2512.24063 | 2025 cs.LG | How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns
+   Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin
+4. 0.521075 | 2512.24940 | 2025 cs.AI | Iterative Deployment Improves Planning Skills in LLMs
+   We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change
+5. 0.532232 | 2512.25063 | 2025 cs.LG | Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity
+   Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu
+Identical exact top-5 ordering: True.

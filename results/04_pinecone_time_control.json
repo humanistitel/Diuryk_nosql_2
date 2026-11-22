@@ -1,0 +1,273 @@
+{
+  "backend": "pinecone",
+  "namespace": "papers-ba554725d9ed4346",
+  "cases": {
+    "unfiltered": {
+      "query": "teaching machines to recognize objects in pictures",
+      "eligible": 50,
+      "matches": [
+        {
+          "id": "0705.2318",
+          "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+          "score": 0.877201438
+        },
+        {
+          "id": "0704.1409",
+          "title": "Preconditioned Temporal Difference Learning",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+          "score": 0.876385212
+        },
+        {
+          "id": "2512.24063",
+          "title": "How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin",
+          "score": 0.867701113
+        },
+        {
+          "id": "2512.24940",
+          "title": "Iterative Deployment Improves Planning Skills in LLMs",
+          "year": 2025,
+          "category": "cs.AI",
+          "abstract_excerpt": "We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change",
+          "score": 0.863245189
+        },
+        {
+          "id": "2512.25063",
+          "title": "Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu",
+          "score": 0.857521713
+        }
+      ]
+    },
+    "cs.LG in 2022–2026": {
+      "query": "reinforcement learning",
+      "eligible": 16,
+      "matches": [
+        {
+          "id": "2512.23870",
+          "title": "Max-Entropy Reinforcement Learning with Flow Matching and A Case Study on LQR",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "Soft actor-critic (SAC) is a popular algorithm for max-entropy reinforcement learning. In practice, the energy-based policies in SAC are often approximated using simple policy clas",
+          "score": 0.929496288
+        },
+        {
+          "id": "2512.24445",
+          "title": "Adaptive Learning Guided by Bias-Noise-Alignment Diagnostics",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "Learning systems deployed in nonstationary and safety-critical environments often suffer from instability, slow convergence, or brittle adaptation when learning dynamics evolve ove",
+          "score": 0.926041186
+        },
+        {
+          "id": "2601.00898",
+          "title": "Dichotomous Diffusion Policy Optimization",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "Diffusion-based policies have gained growing popularity in solving a wide range of decision-making tasks due to their superior expressiveness and controllable generation during inf",
+          "score": 0.923126578
+        },
+        {
+          "id": "2512.24955",
+          "title": "MSACL: Multi-Step Actor-Critic Learning with Lyapunov Certificates for Exponentially Stabilizing Control",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "For stabilizing control tasks, model-free reinforcement learning (RL) approaches face numerous challenges, particularly regarding the issues of effectiveness and efficiency in comp",
+          "score": 0.918967068
+        },
+        {
+          "id": "2601.00868",
+          "title": "SmartFlow Reinforcement Learning and Agentic AI for Bike-Sharing Optimisation",
+          "year": 2025,
+          "category": "cs.LG",
+          "abstract_excerpt": "SmartFlow is a multi-layered framework that integrates Reinforcement Learning and Agentic AI to address the dynamic rebalancing problem in urban bike-sharing services. Its architec",
+          "score": 0.91775775
+        }
+      ]
+    },
+    "before 2015": {
+      "query": "reinforcement learning",
+      "eligible": 25,
+      "matches": [
+        {
+          "id": "0704.1409",
+          "title": "Preconditioned Temporal Difference Learning",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+          "score": 0.910448432
+        },
+        {
+          "id": "0705.2318",
+          "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+          "score": 0.898391426
+        },
+        {
+          "id": "0704.1274",
+          "title": "Parametric Learning and Monte Carlo Optimization",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "This paper uncovers and explores the close relationship between Monte Carlo Optimization of a parametrized integral (MCO), Parametric machine-Learning (PL), and `blackbox' or `orac",
+          "score": 0.88818419
+        },
+        {
+          "id": "0704.1020",
+          "title": "The on-line shortest path problem under partial monitoring",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "The on-line shortest path problem is considered under various models of partial monitoring. Given a weighted directed acyclic graph whose edge weights can change in an arbitrary (a",
+          "score": 0.882664502
+        },
+        {
+          "id": "0704.1028",
+          "title": "A neural network approach to ordinal regression",
+          "year": 2007,
+          "category": "cs.LG",
+          "abstract_excerpt": "Ordinal regression is an important type of learning, which has properties of both classification and regression. Here we describe a simple and effective approach to adapt a traditi",
+          "score": 0.873659074
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "cosine": [
+      {
+        "id": "0705.2318",
+        "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+        "score": 0.8780510369902278
+      },
+      {
+        "id": "0704.1409",
+        "title": "Preconditioned Temporal Difference Learning",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+        "score": 0.876894959980812
+      },
+      {
+        "id": "2512.24063",
+        "title": "How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns",
+        "year": 2025,
+        "category": "cs.LG",
+        "abstract_excerpt": "Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin",
+        "score": 0.8685149948969173
+      },
+      {
+        "id": "2512.24940",
+        "title": "Iterative Deployment Improves Planning Skills in LLMs",
+        "year": 2025,
+        "category": "cs.AI",
+        "abstract_excerpt": "We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change",
+        "score": 0.8642405874301704
+      },
+      {
+        "id": "2512.25063",
+        "title": "Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity",
+        "year": 2025,
+        "category": "cs.LG",
+        "abstract_excerpt": "Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu",
+        "score": 0.8583645922815291
+      }
+    ],
+    "dot": [
+      {
+        "id": "0705.2318",
+        "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+        "score": 0.8780511620103671
+      },
+      {
+        "id": "0704.1409",
+        "title": "Preconditioned Temporal Difference Learning",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+        "score": 0.8768950210767349
+      },
+      {
+        "id": "2512.24063",
+        "title": "How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns",
+        "year": 2025,
+        "category": "cs.LG",
+        "abstract_excerpt": "Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin",
+        "score": 0.8685149558169247
+      },
+      {
+        "id": "2512.24940",
+        "title": "Iterative Deployment Improves Planning Skills in LLMs",
+        "year": 2025,
+        "category": "cs.AI",
+        "abstract_excerpt": "We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change",
+        "score": 0.8642403789397345
+      },
+      {
+        "id": "2512.25063",
+        "title": "Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity",
+        "year": 2025,
+        "category": "cs.LG",
+        "abstract_excerpt": "Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu",
+        "score": 0.8583644190523338
+      }
+    ],
+    "l2": [
+      {
+        "id": "0705.2318",
+        "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza",
+        "score": 0.49386026439333547
+      },
+      {
+        "id": "0704.1409",
+        "title": "Preconditioned Temporal Difference Learning",
+        "year": 2007,
+        "category": "cs.LG",
+        "abstract_excerpt": "This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou",
+        "score": 0.49619562391518984
+      },
+      {
+        "id": "2512.24063",
+        "title": "How and Why LLMs Generalize: A Fine-Grained Analysis of LLM Reasoning from Cognitive Behaviors to Low-Level Patterns",
+        "year": 2025,
+        "category": "cs.LG",
+        "abstract_excerpt": "Large Language Models (LLMs) display strikingly different generalization behaviors: supervised fine-tuning (SFT) often narrows capability, whereas reinforcement-learning (RL) tunin",
+        "score": 0.5128060046191729
+      },
+      {
+        "id": "2512.24940",
+        "title": "Iterative Deployment Improves Planning Skills in LLMs",
+        "year": 2025,
+        "category": "cs.AI",
+        "abstract_excerpt": "We show that iterative deployment of large language models (LLMs), each fine-tuned on data carefully curated by users from the previous models' deployment, can significantly change",
+        "score": 0.5210746200288228
+      },
+      {
+        "id": "2512.25063",
+        "title": "Many Minds from One Model: Bayesian-Inspired Transformers for Population Diversity",
+        "year": 2025,
+        "category": "cs.LG",
+        "abstract_excerpt": "Despite their scale and success, modern transformers are usually trained as single-minded systems: optimization produces a deterministic set of parameters, representing a single fu",
+        "score": 0.5322318651388904
+      }
+    ]
+  },
+  "same_order": true
+}

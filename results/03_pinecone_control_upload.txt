@@ -1,0 +1,6 @@
+Backend: pinecone. Index: arxiv-papers. Namespace: papers-ba554725d9ed4346.
+Verified alignment: 50 papers, 768 dimensions, float32.
+
+Acknowledged upserts: 50. Indexed in namespace: 50. Whole index: 2290.
+
+Загальний лічильник зафіксовано, поки ще тривав імпорт основного корпусу. Після обох імпортів індекс містив 10 050 записів.

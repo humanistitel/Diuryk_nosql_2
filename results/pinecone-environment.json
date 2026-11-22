@@ -1,0 +1,43 @@
+{
+  "executed_at": "2026-11-22T14:10:24.246976+04:00",
+  "project": "Default",
+  "plan": "Starter",
+  "python": "3.12.14",
+  "pinecone_sdk": "7.3.0",
+  "indexes": {
+    "arxiv-papers": {
+      "dimension": 768,
+      "metric": "cosine",
+      "ready": true,
+      "cloud": "aws",
+      "region": "us-east-1",
+      "record_count": 10050,
+      "namespaces": {
+        "papers-ba554725d9ed4346": 50,
+        "papers-f8d72ba08eec279b": 10000
+      }
+    },
+    "arxiv-chunks-fixed": {
+      "dimension": 768,
+      "metric": "cosine",
+      "ready": true,
+      "cloud": "aws",
+      "region": "us-east-1",
+      "record_count": 120,
+      "namespaces": {
+        "chunks-d48d65503ba87773": 120
+      }
+    },
+    "arxiv-chunks-semantic": {
+      "dimension": 768,
+      "metric": "cosine",
+      "ready": true,
+      "cloud": "aws",
+      "region": "us-east-1",
+      "record_count": 121,
+      "namespaces": {
+        "chunks-d48d65503ba87773": 121
+      }
+    }
+  }
+}

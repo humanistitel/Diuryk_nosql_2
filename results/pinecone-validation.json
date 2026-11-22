@@ -1,0 +1,118 @@
+{
+  "paper_indexes": {
+    "arxiv-papers": [
+      {
+        "namespace": "papers-f8d72ba08eec279b",
+        "records": 10000,
+        "verified_fetch_ids": [
+          "paper_0",
+          "paper_1",
+          "paper_5000",
+          "paper_9999"
+        ]
+      },
+      {
+        "namespace": "papers-ba554725d9ed4346",
+        "records": 50,
+        "verified_fetch_ids": [
+          "paper_0",
+          "paper_1",
+          "paper_25",
+          "paper_49"
+        ]
+      }
+    ]
+  },
+  "chunks": {
+    "arxiv-chunks-fixed": {
+      "namespace": "chunks-d48d65503ba87773",
+      "records": 120,
+      "verified_ids": 120
+    },
+    "arxiv-chunks-semantic": {
+      "namespace": "chunks-d48d65503ba87773",
+      "records": 121,
+      "verified_ids": 121
+    }
+  },
+  "main_search": {
+    "cases": {
+      "unfiltered": {
+        "eligible": 10000,
+        "ids": [
+          "0704.1696",
+          "0704.3351",
+          "0705.2318",
+          "0704.1409",
+          "0705.3402"
+        ]
+      },
+      "cs.LG in 2022–2026": {
+        "eligible": 0,
+        "ids": []
+      },
+      "before 2015": {
+        "eligible": 10000,
+        "ids": [
+          "0706.0280",
+          "0704.1409",
+          "0705.0693",
+          "0704.3780",
+          "0704.1120"
+        ]
+      }
+    },
+    "exact_cosine_top5": [
+      "0704.1696",
+      "0704.3351",
+      "0705.2318",
+      "0705.3402",
+      "0704.1409"
+    ],
+    "cloud_exact_top5_overlap": 5,
+    "cloud_exact_same_order": false
+  },
+  "control_search": {
+    "cases": {
+      "unfiltered": {
+        "eligible": 50,
+        "ids": [
+          "0705.2318",
+          "0704.1409",
+          "2512.24063",
+          "2512.24940",
+          "2512.25063"
+        ]
+      },
+      "cs.LG in 2022–2026": {
+        "eligible": 16,
+        "ids": [
+          "2512.23870",
+          "2512.24445",
+          "2601.00898",
+          "2512.24955",
+          "2601.00868"
+        ]
+      },
+      "before 2015": {
+        "eligible": 25,
+        "ids": [
+          "0704.1409",
+          "0705.2318",
+          "0704.1274",
+          "0704.1020",
+          "0704.1028"
+        ]
+      }
+    },
+    "exact_cosine_top5": [
+      "0705.2318",
+      "0704.1409",
+      "2512.24063",
+      "2512.24940",
+      "2512.25063"
+    ],
+    "cloud_exact_top5_overlap": 5,
+    "cloud_exact_same_order": true
+  }
+}

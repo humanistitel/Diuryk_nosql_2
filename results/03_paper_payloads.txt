@@ -1,0 +1,4 @@
+Backend: pinecone. Index: arxiv-papers. Namespace: papers-f8d72ba08eec279b.
+Verified alignment: 10000 papers, 768 dimensions, float32.
+
+Acknowledged upserts: 10000. Indexed in namespace: 10000. Whole index: 10050.

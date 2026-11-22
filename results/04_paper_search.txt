@@ -1,0 +1,65 @@
+Backend: pinecone. Namespace: papers-f8d72ba08eec279b. Corpus: 10000.
+
+unfiltered | teaching machines to recognize objects in pictures | eligible: 10000
+1. 0.883597 | 0704.1696 | 2007 math.ST | Theoretical Aspects of the SOM Algorithm
+   The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h
+2. 0.882834 | 0704.3351 | 2007 physics.ins-det | Symbolic sensors : one solution to the numerical-symbolic interface
+   This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr
+3. 0.878032 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+4. 0.876893 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+5. 0.876596 | 0705.3402 | 2007 cond-mat.dis-nn | A ferrofluid based neural network: design of an analogue associative memory
+   We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of
+
+cs.LG in 2022–2026 | reinforcement learning | eligible: 0
+No matching records.
+
+before 2015 | reinforcement learning | eligible: 10000
+1. 0.929681 | 0706.0280 | 2007 cs.MA | Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa
+   Game theory has many limitations implicit in its application. By utilizing multiagent modeling, it is possible to solve a number of problems that are unsolvable using traditional g
+2. 0.910425 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+3. 0.907638 | 0705.0693 | 2007 cs.AI | Learning to Bluff
+   The act of bluffing confounds game designers to this day. The very nature of bluffing is even open for debate, adding further complication to the process of creating intelligent vi
+4. 0.903163 | 0704.3780 | 2007 cs.NE | Stochastic Optimization Algorithms
+   When looking for a solution, deterministic methods have the enormous advantage that they do find global optima. Unfortunately, they are very CPU-intensive, and are useless on untra
+5. 0.899918 | 0704.1120 | 2007 physics.soc-ph | "Illusion of control" in Minority and Parrondo Games
+   Human beings like to believe they are in control of their destiny. This ubiquitous trait seems to increase motivation and persistence, and is probably evolutionarily adaptive. But
+
+Exact local cosine | teaching machines to recognize objects in pictures
+1. 0.883514 | 0704.1696 | 2007 math.ST | Theoretical Aspects of the SOM Algorithm
+   The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h
+2. 0.882835 | 0704.3351 | 2007 physics.ins-det | Symbolic sensors : one solution to the numerical-symbolic interface
+   This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr
+3. 0.878051 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+4. 0.877530 | 0705.3402 | 2007 cond-mat.dis-nn | A ferrofluid based neural network: design of an analogue associative memory
+   We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of
+5. 0.876895 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+
+Exact local dot | teaching machines to recognize objects in pictures
+1. 0.883514 | 0704.1696 | 2007 math.ST | Theoretical Aspects of the SOM Algorithm
+   The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h
+2. 0.882835 | 0704.3351 | 2007 physics.ins-det | Symbolic sensors : one solution to the numerical-symbolic interface
+   This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr
+3. 0.878051 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+4. 0.877530 | 0705.3402 | 2007 cond-mat.dis-nn | A ferrofluid based neural network: design of an analogue associative memory
+   We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of
+5. 0.876895 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+
+Exact local l2 | teaching machines to recognize objects in pictures
+1. 0.482672 | 0704.1696 | 2007 math.ST | Theoretical Aspects of the SOM Algorithm
+   The SOM algorithm is very astonishing. On the one hand, it is very simple to write down and to simulate, its practical properties are clear and easy to observe. But, on the other h
+2. 0.484077 | 0704.3351 | 2007 physics.ins-det | Symbolic sensors : one solution to the numerical-symbolic interface
+   This paper introduces the concept of symbolic sensor as an extension of the smart sensor one. Then, the links between the physical world and the symbolic one are introduced. The cr
+3. 0.493860 | 0705.2318 | 2007 cs.LG | Statistical Mechanics of Nonlinear On-line Learning for Ensemble Teachers
+   We analyze the generalization performance of a student in a model composed of nonlinear perceptrons: a true teacher, ensemble teachers, and the student. We calculate the generaliza
+4. 0.494915 | 0705.3402 | 2007 cond-mat.dis-nn | A ferrofluid based neural network: design of an analogue associative memory
+   We analyse an associative memory based on a ferrofluid, consisting of a system of magnetic nano-particles suspended in a carrier fluid of variable viscosity subject to patterns of
+5. 0.496196 | 0704.1409 | 2007 cs.LG | Preconditioned Temporal Difference Learning
+   This paper has been withdrawn by the author. This draft is withdrawn for its poor quality in english, unfortunately produced by the author when he was just starting his science rou
+Identical exact top-5 ordering: True.
