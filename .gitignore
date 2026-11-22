@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+/data/
+/embeddings/
+/local-logs/
+/arxiv-metadata-oai-snapshot.json
+*.parquet
+*.npy
+*.npz
+*.zip
+/pinecone-connection.env
